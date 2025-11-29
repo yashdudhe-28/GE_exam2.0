@@ -1,0 +1,739 @@
+
+
+1. Hardness of a material is the measure of its
+ A) Resistance to corrosion
+ B) Resistance to indentation or scratching
+ C) Resistance to fatigue failure
+ D) Thermal conductivity
+ Answer: B
+2. Hardenability is the ability of steel to
+ A) Harden only at surface
+ B) Harden in depth under quenching
+ C) Become soft during cooling
+ D) Resist crack formation
+ Answer: B
+3. Hardness is a __________ property.
+ A) Surface
+ B) Core
+ C) Electrical
+ D) Thermal
+ Answer: A
+4. Hardenability is measured using
+ A) Rockwell test
+ B) Izod test
+ C) Jominy test
+ D) Vickers test
+ Answer: C
+5. In Jominy test, water stream is applied
+ A) Over full length
+ B) Only at one end
+ C) Only at center
+ D) To both ends
+ Answer: B
+6. The hardness in Jominy test is measured
+ A) At top only
+ B) At quenched end only
+ C) At intervals from quenched end
+ D) On unquenched face only
+ Answer: C
+7. Grossmann method determines
+ A) Grain size number
+ B) Critical diameter
+ C) Impact strength
+ D) Hardness number
+ Answer: B
+
+8. Quench severity is highest in
+ A) Still oil
+ B) Water
+ C) Brine
+ D) Air
+ Answer: C
+9. In hardness vs hardenability, the correct pair is
+ A) Hardness = depth of hardness
+ B) Hardenability = surface indentation resistance
+ C) Hardness = surface resistance
+ D) Hardenability = electrical resistance
+ Answer: C
+10. Core hardness means hardness at
+ A) Immediate surface
+ B) Outer layer
+ C) Centre of the material
+ D) Heat-affected zone only
+ Answer: C
+11. Quenching oil is mainly used for
+ A) Fastest cooling
+ B) Moderate cooling
+ C) Slowest cooling
+ D) No cooling
+ Answer: B
+12. Air cooling is used in
+ A) Hardening
+ B) Annealing
+ C) Normalizing
+ D) Carbonitriding
+ Answer: C
+13. The purpose of annealing is to
+ A) Increase brittleness
+ B) Increase grain size non-uniformity
+ C) Soften material
+ D) Harden surface
+ Answer: C
+14. In annealing cooling occurs
+ A) In furnace slowly
+ B) In quench tank
+ C) In air forcefully
+ D) In liquid nitrogen
+ Answer: A
+
+15. Normalising improves
+ A) Wear resistance only
+ B) Grain refinement & stress relief
+ C) Case depth
+ D) Colour of steel
+ Answer: B
+16. Normalising cooling takes place in
+ A) Oil
+ B) Furnace
+ C) Air
+ D) Water
+ Answer: C
+17. High distortion is expected in
+ A) Furnace cooling
+ B) Air cooling
+ C) Water quenching
+ D) No cooling
+ Answer: C
+18. Hardening temperature corresponds to
+ A) Austenitic region
+ B) Ferritic region
+ C) Cementite region
+ D) Room temperature
+ Answer: A
+19. Which one produces martensite?
+ A) Slow cooling
+ B) Step cooling
+ C) Fast quenching
+ D) No cooling
+ Answer: C
+20. Best quench medium for die steel like H13
+ A) Water
+ B) Brine
+ C) Polymer / air blast
+ D) Mercury
+ Answer: C
+21. A quenchant must be selected considering
+ A) Only cost
+ B) Only colour
+ C) Steel grade & hardenability
+ D) Melting point
+ Answer: C
+
+22. Overheating during heat treatment leads to
+ A) Strength increase
+ B) Finer grains
+ C) Coarse grains & brittleness
+ D) Higher ductility
+ Answer: C
+23. Burning defect occurs due to
+ A) Under-heating
+ B) Heating near melting temperature
+ C) Low carburization
+ D) High quenching oil viscosity
+ Answer: B
+24. Decarburization is loss of carbon from
+ A) Core
+ B) Surface of steel
+ C) Internal voids
+ D) Grain boundaries only
+ Answer: B
+25. Cracks in heat treatment increase with
+ A) Lower carbon
+ B) Smooth corners
+ C) Higher cooling rate
+ D) Polishing
+ Answer: C
+26. Warpage results due to
+ A) Symmetrical heating
+ B) Very slow cooling
+ C) Uneven quenching & overheating
+ D) CNC machining
+ Answer: C
+27. For through hardening of medium carbon steel, best quenchant
+ A) Still air
+ B) Water
+ C) Oil
+ D) Furnace cooling
+ Answer: C
+28. Microstructure of normalized steel is mainly
+ A) Pearlite + ferrite
+ B) Pure martensite
+ C) Pure austenite
+ D) White cast iron
+ Answer: A
+
+29. Hardness test scale for steels widely used
+ A) HRB
+ B) HRC
+ C) Shore scale
+ D) Moh’s scale
+ Answer: B
+30. Hardenability curve shows hardness on Y-axis and __________ on X-axis
+ A) Time only
+ B) Carbon percentage
+ C) Distance from quenched end
+ D) Quench medium name
+ Answer: C
+31. Case hardening produces
+ A) Hard core, soft surface
+ B) Soft surface, soft core
+ C) Hard surface, tough core
+ D) Full hardness throughout
+ Answer: C
+32. Carburizing is generally applicable to
+ A) Low carbon steels
+ B) High carbon steels
+ C) Aluminium alloys
+ D) Cast iron
+ Answer: A
+33. Carbon absorption during carburizing occurs due to
+ A) Diffusion
+ B) Melting
+ C) Electrical breakdown
+ D) Shrinkage
+ Answer: A
+34. Gas carburizing atmosphere controls
+ A) Carbon potential
+ B) Annealing rate
+ C) Welding speed
+ D) Nitrogen diffusion only
+ Answer: A
+35. Effective case depth in carburized parts is evaluated by
+ A) Impact testing
+ B) Hardness profile
+ C) Chemical corrosion test
+ D) Thermal imaging
+ Answer: B
+
+36. Carbonitriding adds
+ A) Carbon only
+ B) Nitrogen only
+ C) Carbon and nitrogen both
+ D) Oxygen and nitrogen
+ Answer: C
+37. Carbonitriding is generally conducted at
+ A) 500–600°C
+ B) 700–750°C
+ C) 850–880°C
+ D) 1100–1200°C
+ Answer: C
+38. A major advantage of carbonitriding is
+ A) High case depth for heavy sections
+ B) It reduces surface wear resistance
+ C) Low cost + high hardenability
+ D) No heat treatment required later
+ Answer: C
+39. Nitriding temperature range is
+ A) 200–300°C
+ B) 450–500°C
+ C) 540–570°C
+ D) 900–1100°C
+ Answer: C
+40. Nitriding achieves surface hardness
+ A) 200–300 Hv
+ B) 400–500 Hv
+ C) >1000 Hv
+ D) <300 Hv
+ Answer: C
+41. A nitrided surface contains
+ A) Ferrite only
+ B) Pearlite only
+ C) Compound (white) layer + diffusion zone
+ D) Austenite only
+ Answer: C
+42. Nitriding is preferred when
+ A) Minimum distortion is desired
+ B) Full martensite is required
+ C) Recrystallization needs to be avoided
+ D) Component must be soft
+ Answer: A
+
+43. Induction hardening works using
+ A) Convection
+ B) Conduction
+ C) Electromagnetic induction (eddy currents)
+ D) Plastic deformation
+ Answer: C
+44. Induction hardening increases
+ A) Only ductility
+ B) Surface hardness + case depth
+ C) Only machinability
+ D) Melting point
+ Answer: B
+45. In induction hardening, higher frequency generates
+ A) Deeper case
+ B) Shallow case
+ C) No case
+ D) Surface softening
+ Answer: B
+46. Suitable steel for induction hardening must have minimum carbon
+ A) <0.05%
+ B) <0.20%
+ C) >0.37%
+ D) >2.0%
+ Answer: C
+47. Tempering is done after hardening to
+ A) Increase brittleness
+ B) Reduce internal stresses and improve toughness
+ C) Remove carbon completely
+ D) Eliminate surface hardness
+ Answer: B
+48. Tempering temperature for carburized parts is usually
+ A) 50–100°C
+ B) 160–180°C
+ C) 400–500°C
+ D) 700–800°C
+ Answer: B
+49. Higher tempering temperature generally
+ A) Increases hardness
+ B) Decreases toughness
+ C) Reduces hardness but increases toughness
+ D) Softens completely
+ Answer: C
+
+50. Stress relieving is performed to
+ A) Increase case depth
+ B) Improve plasticity
+ C) Remove residual stresses without major microstructural change
+ D) Increase carbon content
+ Answer: C
+51. Stress relieving temperature typically ranges
+ A) 150–650°C
+ B) 900–1100°C
+ C) 1200–1400°C
+ D) 50–200°C
+ Answer: A
+52. Complete through hardening aims at
+ A) Soft surface
+ B) Fully martensitic structure
+ C) Fully ferritic structure
+ D) No phase change
+ Answer: B
+53. Case depth in induction hardening depends on
+ A) Only quenching medium
+ B) Only tempering time
+ C) Frequency and power of coil
+ D) Colour of steel
+ Answer: C
+54. Nitriding requires steels containing
+ A) Cu & Pb
+ B) Al, Cr, Mo, Ni, V
+ C) Mg & Si
+ D) Sn & Co
+ Answer: B
+55. Advantage of nitriding over carburizing
+ A) Higher distortion
+ B) No quenching required
+ C) Lower hardness
+ D) White layer is unwanted only
+ Answer: B
+56. In case hardened parts, failure generally initiates from
+ A) Surface only
+ B) Core only
+ C) Transition region
+ D) Outer coating
+ Answer: C
+
+57. Ideal process for gear teeth wear resistance + tough core
+ A) Normalizing
+ B) Carburizing + hardening
+ C) Cold working
+ D) Shot blasting
+ Answer: B
+58. Ideal process for crankshaft pin
+ A) Annealing
+ B) Induction hardening
+ C) Brine quenching
+ D) Case carburizing
+ Answer: B
+59. Induction hardening cracks increase with
+ A) Higher carbon content
+ B) Lower carbon content
+ C) Lower hardness
+ D) Higher machining allowance
+ Answer: A
+60. For only a particular region of part to be hardened, preferred method
+ A) Nitriding
+ B) Induction hardening
+ C) Full annealing
+ D) Normalizing
+ Answer: B
+61. Austenite is stable at
+ A) Room temperature
+ B) Below 200°C
+ C) High temperature region
+ D) Freezing temperature
+ Answer: C
+62. Martensite is formed by
+ A) Slow cooling
+ B) Air cooling
+ C) Rapid quenching
+ D) Furnace cooling
+ Answer: C
+63. Microstructure formed by slow furnace cooling is mostly
+ A) Martensite
+ B) Pearlite + ferrite
+ C) Austenite
+ D) Bainite
+ Answer: B
+
+64. Bainite forms at
+ A) Higher temperature than pearlite
+ B) Lower temperature than martensite
+ C) Temperature between pearlite and martensite
+ D) Melting temperature
+ Answer: C
+65. Martensite is
+ A) Very soft
+ B) Very hard and brittle
+ C) Very ductile
+ D) Corrosion-proof layer
+ Answer: B
+66. Critical cooling curve on a TTT diagram is one that
+ A) Avoids martensite formation
+ B) Just touches the nose of TTT curve
+ C) Goes below Ms line directly
+ D) Avoids austenite formation
+ Answer: B
+67. On a TTT diagram, transformation begins when the cooling path
+ A) Touches the start curve
+ B) Touches the finish curve
+ C) Touches Ms
+ D) Touches Mf
+ Answer: A
+68. The transformation to martensite starts at
+ A) A1 temperature
+ B) Ms temperature
+ C) A3 temperature
+ D) Solidus temperature
+ Answer: B
+69. Ms is
+ A) Minimum softening temperature
+ B) Martensite start temperature
+ C) Metal solidification temperature
+ D) Matrix shrinking temperature
+ Answer: B
+70. In Iron–Carbon diagram, eutectoid reaction occurs at
+ A) 0.8% C and 727°C
+ B) 4.3% C and 1147°C
+ C) 2.11% C and 950°C
+ D) 6% C and 700°C
+ Answer: A
+
+71. Pearlite forms from austenite at
+ A) High cooling rate
+ B) Slow cooling rate
+ C) No cooling
+ D) Sub-zero treatment
+ Answer: B
+72. The structure 100% martensite means
+ A) Maximum strength but low toughness
+ B) High ductility
+ C) No brittleness
+ D) Poor hardenability automatically
+ Answer: A
+73. A grain-refined structure results in
+ A) Lower strength
+ B) Higher strength and toughness
+ C) Colour change
+ D) Poor machinability always
+ Answer: B
+74. Bainite compared to pearlite has
+ A) Lower toughness
+ B) Higher toughness
+ C) Same hardness
+ D) No carbon present
+ Answer: B
+75. The A1 temperature line represents
+ A) Eutectoid temperature
+ B) Liquidus
+ C) Solidus
+ D) Melting point
+ Answer: A
+76. Increasing grain size
+ A) Increases toughness
+ B) Decreases brittleness
+ C) Decreases tensile strength
+ D) Improves fatigue life
+ Answer: C
+77. Ideal quenchant for minimizing cracking while still achieving full hardness
+ A) Brine
+ B) Water
+ C) Polymer / oil
+ D) Air
+ Answer: C
+
+78. A fully tempered martensite structure gives
+ A) Low strength & high brittleness
+ B) Balanced hardness + toughness
+ C) No microstructure change
+ D) No wear resistance
+ Answer: B
+79. During heat treatment, phase transformation starts during
+ A) Heating only
+ B) Cooling only
+ C) Both heating and cooling
+ D) No transformation occurs
+ Answer: C
+80. Carbide particles in tempered martensite improve
+ A) Strength and wear resistance
+ B) Ability to melt easily
+ C) Electrical resistance
+ D) Magnetic resistance
+ Answer: A
+81. The eutectoid composition of steel is
+ A) 0.2%
+ B) 0.45%
+ C) 0.8%
+ D) 2.11%
+ Answer: C
+82. Retained austenite is
+ A) Austenite that did not transform during quenching
+ B) Austenite formed during tempering
+ C) Austenite present only in cast iron
+ D) Corrosion layer on gear teeth
+ Answer: A
+83. Austenite transforms to pearlite at
+ A) High cooling rate
+ B) Moderate cooling rate
+ C) Extremely rapid cooling
+ D) Very high temperature only
+ Answer: B
+84. Increasing alloying elements such as Cr & Mo
+ A) Decrease hardenability
+ B) Increase hardenability
+ C) Remove hardenability
+ D) Cause corrosion
+ Answer: B
+
+85. Temper embrittlement is caused by
+ A) Incorrect tempering temperature selection
+ B) High carbon potential
+ C) Low case depth
+ D) Improper machining
+ Answer: A
+86. Pearlite is a combination of
+ A) Ferrite + Bainite
+ B) Ferrite + Cementite
+ C) Austenite + Martensite
+ D) Cementite + Graphite
+ Answer: B
+87. Transformation to martensite is
+ A) Diffusion-controlled
+ B) Non-diffusion (shear) transformation
+ C) Liquid-state transformation
+ D) No transformation
+ Answer: B
+88. The TTT “nose” represents
+ A) Fastest transformation point
+ B) Highest hardness region
+ C) Corrosion-resistant zone
+ D) Lowest toughness region
+ Answer: A
+89. Bainite microstructure gives
+ A) Higher brittleness than martensite
+ B) Higher strength + toughness balance
+ C) Zero hardness always
+ D) Softest steel
+ Answer: B
+90. A fully annealed steel shows
+ A) Coarse pearlite
+ B) 100% martensite
+ C) 100% bainite
+ D) Very fine martensite
+ Answer: A
+91. Overheating during heat treatment results in
+ A) Finer grains
+ B) Coarse grains and reduced toughness
+ C) Higher ductility
+ D) Lower distortion
+ Answer: B
+
+92. Burning is caused by
+ A) Low quenching rate
+ B) Heating near melting temperature for long duration
+ C) Excessive machining
+ D) Welding only
+ Answer: B
+93. Decarburization is removal of carbon from
+ A) Entire cross-section
+ B) Only the surface layer
+ C) Only the core
+ D) Steel grain boundaries
+ Answer: B
+94. Quench cracks occur due to
+ A) Slow cooling
+ B) High cooling rate + high carbon
+ C) No heat treatment
+ D) Removing machining allowance
+ Answer: B
+95. Distortion / warpage results from
+ A) Uniform quenching
+ B) Uneven heating / uneven quenching
+ C) Slow annealing
+ D) Use of nitriding steels
+ Answer: B
+96. A steel with carbon below 0.37% is not suitable for
+ A) Induction hardening
+ B) Welding
+ C) Annealing
+ D) Stress relieving
+ Answer: A
+97. Steel with high carbon & sharp corners is more prone to
+ A) Softening
+ B) Cracking
+ C) Decarburization only
+ D) No change
+ Answer: B
+98. To reduce distortion during quenching
+ A) Use brine
+ B) Use severe water spray
+ C) Use polymer / oil quench
+ D) Increase quench speed
+ Answer: C
+
+99. ASTM grain size 6–8 refers to
+ A) Very coarse grains
+ B) Fine to medium fine grains
+ C) No grains present
+ D) Cast-iron structure
+ Answer: B
+100. Grain refinement in steels leads to
+ A) Increase in brittleness
+ B) Decrease in fatigue life
+ C) Increase in toughness and strength
+ D) Zero hardness
+ Answer: C
+101. A bolt requires core hardness 32–39 HRC → best process
+ A) Nitriding
+ B) Normalizing only
+ C) Through hardening (Hardening + tempering)
+ D) Tempering only
+ Answer: C
+102. A gear requires very high surface hardness + wear resistance + tough core
+ A) Normalizing
+ B) Carburizing + Hardening
+ C) Stress relieving
+ D) Annealing
+ Answer: B
+103. A rear axle requires hard teeth on surface + soft core
+ A) Nitriding
+ B) Annealing
+ C) Case carburizing + hardening
+ D) Normalizing
+ Answer: C
+104. Shock-loaded component requiring low distortion & high wear resistance → preferred
+ A) Case carburizing
+ B) Nitriding
+ C) Carbonitriding
+ D) Shot peening
+ Answer: B
+105. For large components where deep hardness is needed → best property
+ A) High hardness
+ B) High hardenability
+ C) High machinability
+ D) High electrical resistance
+ Answer: B
+
+106. For cheap surface hardening of low-carbon steel → preferred
+ A) Annealing
+ B) Carbonitriding
+ C) Nitriding
+ D) Laser hardening
+ Answer: B
+107. For spot hardening of a single region (e.g., cam lobe)
+ A) Full carburizing
+ B) Induction hardening
+ C) Annealing
+ D) Normalizing
+ Answer: B
+108. To obtain 50% martensite at centre of a bar, we refer to
+ A) Jominy test
+ B) Grossmann’s critical diameter method
+ C) Izod impact test
+ D) Rockwell test
+ Answer: B
+109. Hardenability differs from hardness because it measures
+ A) Hardness of the surface only
+ B) Hardness value during machining
+ C) Depth up to which hardness is achieved
+ D) Machinability
+ Answer: C
+110. The heat treatment process that produces lowest distortion
+ A) Carburizing
+ B) Nitriding
+ C) Induction hardening
+ D) Brine quenching
+ Answer: B
+111. Low hardness after quenching may be due to
+ A) Low carbon
+ B) Under-austenitizing
+ C) Too slow quench cooling
+ D) All of the above
+ Answer: D
+112. Tooth pitting failure in gears can be minimized by
+ A) Increasing case depth
+ B) Using air cooling
+ C) Full annealing
+ D) Removing core strength
+ Answer: A
+
+113. After carburizing, tempering is done to
+ A) Remove case
+ B) Soften core
+ C) Reduce brittleness and stabilize case
+ D) Convert martensite to ferrite fully
+ Answer: C
+114. After induction hardening, tempering is done to
+ A) Reduce brittleness of surface layer
+ B) Remove compound zone
+ C) Remove case depth
+ D) Increase annealing
+ Answer: A
+115. Carbon content increases hardenability until approx.
+ A) 0.2%
+ B) 0.4%
+ C) 0.8%
+ D) 2.1%
+ Answer: C
+116. The best quenchant for minimum cracks + controlled cooling
+ A) Water
+ B) Brine
+ C) Oil / Polymer
+ D) Air
+ Answer: C
+117. Heat-treatment defect NOT caused by quenching
+ A) Cracking
+ B) Warpage
+ C) Decarburization
+ D) Distortion
+ Answer: C
+118. The very fast transformation time is indicated on TTT curve at
+ A) Far right
+ B) Centre
+ C) “Nose”
+ D) End of curve
+ Answer: C
+119. The best process when both surface and core must be hardened
+ A) Through hardening
+ B) Annealing
+ C) Stress relieving
+ D) Normalizing
+ Answer: A
+
+120. The best method to harden only outer 1–2 mm without affecting core
+ A) Nitriding
+ B) Induction hardening
+ C) Annealing
+ D) Air cooling
+ Answer: B

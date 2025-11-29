@@ -1,0 +1,1322 @@
+[
+  {
+    "id": 1,
+    "question": "Hardness of a material is the measure of its",
+    "options": [
+      "Resistance to corrosion",
+      "Resistance to indentation or scratching",
+      "Resistance to fatigue failure",
+      "Thermal conductivity"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 2,
+    "question": "Hardenability is the ability of steel to",
+    "options": [
+      "Harden only at surface",
+      "Harden in depth under quenching",
+      "Become soft during cooling",
+      "Resist crack formation"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 3,
+    "question": "Hardness is a __________ property.",
+    "options": [
+      "Surface",
+      "Core",
+      "Electrical",
+      "Thermal"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 4,
+    "question": "Hardenability is measured using",
+    "options": [
+      "Rockwell test",
+      "Izod test",
+      "Jominy test",
+      "Vickers test"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 5,
+    "question": "In Jominy test, water stream is applied",
+    "options": [
+      "Over full length",
+      "Only at one end",
+      "Only at center",
+      "To both ends"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 6,
+    "question": "The hardness in Jominy test is measured",
+    "options": [
+      "At top only",
+      "At quenched end only",
+      "At intervals from quenched end",
+      "On unquenched face only"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 7,
+    "question": "Grossmann method determines",
+    "options": [
+      "Grain size number",
+      "Critical diameter",
+      "Impact strength",
+      "Hardness number"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 8,
+    "question": "Quench severity is highest in",
+    "options": [
+      "Still oil",
+      "Water",
+      "Brine",
+      "Air"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 9,
+    "question": "In hardness vs hardenability, the correct pair is",
+    "options": [
+      "Hardness = depth of hardness",
+      "Hardenability = surface indentation resistance",
+      "Hardness = surface resistance",
+      "Hardenability = electrical resistance"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 10,
+    "question": "Core hardness means hardness at",
+    "options": [
+      "Immediate surface",
+      "Outer layer",
+      "Centre of the material",
+      "Heat-affected zone only"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 11,
+    "question": "Quenching oil is mainly used for",
+    "options": [
+      "Fastest cooling",
+      "Moderate cooling",
+      "Slowest cooling",
+      "No cooling"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 12,
+    "question": "Air cooling is used in",
+    "options": [
+      "Hardening",
+      "Annealing",
+      "Normalizing",
+      "Carbonitriding"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 13,
+    "question": "The purpose of annealing is to",
+    "options": [
+      "Increase brittleness",
+      "Increase grain size non-uniformity",
+      "Soften material",
+      "Harden surface"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 14,
+    "question": "In annealing cooling occurs",
+    "options": [
+      "In furnace slowly",
+      "In quench tank",
+      "In air forcefully",
+      "In liquid nitrogen"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 15,
+    "question": "Normalising improves",
+    "options": [
+      "Wear resistance only",
+      "Grain refinement & stress relief",
+      "Case depth",
+      "Colour of steel"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 16,
+    "question": "Normalising cooling takes place in",
+    "options": [
+      "Oil",
+      "Furnace",
+      "Air",
+      "Water"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 17,
+    "question": "High distortion is expected in",
+    "options": [
+      "Furnace cooling",
+      "Air cooling",
+      "Water quenching",
+      "No cooling"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 18,
+    "question": "Hardening temperature corresponds to",
+    "options": [
+      "Austenitic region",
+      "Ferritic region",
+      "Cementite region",
+      "Room temperature"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 19,
+    "question": "Which one produces martensite?",
+    "options": [
+      "Slow cooling",
+      "Step cooling",
+      "Fast quenching",
+      "No cooling"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 20,
+    "question": "Best quench medium for die steel like H13",
+    "options": [
+      "Water",
+      "Brine",
+      "Polymer / air blast",
+      "Mercury"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 21,
+    "question": "A quenchant must be selected considering",
+    "options": [
+      "Only cost",
+      "Only colour",
+      "Steel grade & hardenability",
+      "Melting point"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 22,
+    "question": "Overheating during heat treatment leads to",
+    "options": [
+      "Strength increase",
+      "Finer grains",
+      "Coarse grains & brittleness",
+      "Higher ductility"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 23,
+    "question": "Burning defect occurs due to",
+    "options": [
+      "Under-heating",
+      "Heating near melting temperature",
+      "Low carburization",
+      "High quenching oil viscosity"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 24,
+    "question": "Decarburization is loss of carbon from",
+    "options": [
+      "Core",
+      "Surface of steel",
+      "Internal voids",
+      "Grain boundaries only"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 25,
+    "question": "Cracks in heat treatment increase with",
+    "options": [
+      "Lower carbon",
+      "Smooth corners",
+      "Higher cooling rate",
+      "Polishing"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 26,
+    "question": "Warpage results due to",
+    "options": [
+      "Symmetrical heating",
+      "Very slow cooling",
+      "Uneven quenching & overheating",
+      "CNC machining"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 27,
+    "question": "For through hardening of medium carbon steel, best quenchant",
+    "options": [
+      "Still air",
+      "Water",
+      "Oil",
+      "Furnace cooling"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 28,
+    "question": "Microstructure of normalized steel is mainly",
+    "options": [
+      "Pearlite + ferrite",
+      "Pure martensite",
+      "Pure austenite",
+      "White cast iron"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 29,
+    "question": "Hardness test scale for steels widely used",
+    "options": [
+      "HRB",
+      "HRC",
+      "Shore scale",
+      "Moh’s scale"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 30,
+    "question": "Hardenability curve shows hardness on Y-axis and __________ on X-axis",
+    "options": [
+      "Time only",
+      "Carbon percentage",
+      "Distance from quenched end",
+      "Quench medium name"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 31,
+    "question": "Case hardening produces",
+    "options": [
+      "Hard core, soft surface",
+      "Soft surface, soft core",
+      "Hard surface, tough core",
+      "Full hardness throughout"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 32,
+    "question": "Carburizing is generally applicable to",
+    "options": [
+      "Low carbon steels",
+      "High carbon steels",
+      "Aluminium alloys",
+      "Cast iron"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 33,
+    "question": "Carbon absorption during carburizing occurs due to",
+    "options": [
+      "Diffusion",
+      "Melting",
+      "Electrical breakdown",
+      "Shrinkage"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 34,
+    "question": "Gas carburizing atmosphere controls",
+    "options": [
+      "Carbon potential",
+      "Annealing rate",
+      "Welding speed",
+      "Nitrogen diffusion only"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 35,
+    "question": "Effective case depth in carburized parts is evaluated by",
+    "options": [
+      "Impact testing",
+      "Hardness profile",
+      "Chemical corrosion test",
+      "Thermal imaging"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 36,
+    "question": "Carbonitriding adds",
+    "options": [
+      "Carbon only",
+      "Nitrogen only",
+      "Carbon and nitrogen both",
+      "Oxygen and nitrogen"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 37,
+    "question": "Carbonitriding is generally conducted at",
+    "options": [
+      "500–600°C",
+      "700–750°C",
+      "850–880°C",
+      "1100–1200°C"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 38,
+    "question": "A major advantage of carbonitriding is",
+    "options": [
+      "High case depth for heavy sections",
+      "It reduces surface wear resistance",
+      "Low cost + high hardenability",
+      "No heat treatment required later"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 39,
+    "question": "Nitriding temperature range is",
+    "options": [
+      "200–300°C",
+      "450–500°C",
+      "540–570°C",
+      "900–1100°C"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 40,
+    "question": "Nitriding achieves surface hardness",
+    "options": [
+      "200–300 Hv",
+      "400–500 Hv",
+      ">1000 Hv",
+      "<300 Hv"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 41,
+    "question": "A nitrided surface contains",
+    "options": [
+      "Ferrite only",
+      "Pearlite only",
+      "Compound (white) layer + diffusion zone",
+      "Austenite only"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 42,
+    "question": "Nitriding is preferred when",
+    "options": [
+      "Minimum distortion is desired",
+      "Full martensite is required",
+      "Recrystallization needs to be avoided",
+      "Component must be soft"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 43,
+    "question": "Induction hardening works using",
+    "options": [
+      "Convection",
+      "Conduction",
+      "Electromagnetic induction (eddy currents)",
+      "Plastic deformation"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 44,
+    "question": "Induction hardening increases",
+    "options": [
+      "Only ductility",
+      "Surface hardness + case depth",
+      "Only machinability",
+      "Melting point"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 45,
+    "question": "In induction hardening, higher frequency generates",
+    "options": [
+      "Deeper case",
+      "Shallow case",
+      "No case",
+      "Surface softening"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 46,
+    "question": "Suitable steel for induction hardening must have minimum carbon",
+    "options": [
+      "<0.05%",
+      "<0.20%",
+      ">0.37%",
+      ">2.0%"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 47,
+    "question": "Tempering is done after hardening to",
+    "options": [
+      "Increase brittleness",
+      "Reduce internal stresses and improve toughness",
+      "Remove carbon completely",
+      "Eliminate surface hardness"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 48,
+    "question": "Tempering temperature for carburized parts is usually",
+    "options": [
+      "50–100°C",
+      "160–180°C",
+      "400–500°C",
+      "700–800°C"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 49,
+    "question": "Higher tempering temperature generally",
+    "options": [
+      "Increases hardness",
+      "Decreases toughness",
+      "Reduces hardness but increases toughness",
+      "Softens completely"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 50,
+    "question": "Stress relieving is performed to",
+    "options": [
+      "Increase case depth",
+      "Improve plasticity",
+      "Remove residual stresses without major microstructural change",
+      "Increase carbon content"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 51,
+    "question": "Stress relieving temperature typically ranges",
+    "options": [
+      "150–650°C",
+      "900–1100°C",
+      "1200–1400°C",
+      "50–200°C"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 52,
+    "question": "Complete through hardening aims at",
+    "options": [
+      "Soft surface",
+      "Fully martensitic structure",
+      "Fully ferritic structure",
+      "No phase change"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 53,
+    "question": "Case depth in induction hardening depends on",
+    "options": [
+      "Only quenching medium",
+      "Only tempering time",
+      "Frequency and power of coil",
+      "Colour of steel"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 54,
+    "question": "Nitriding requires steels containing",
+    "options": [
+      "Cu & Pb",
+      "Al, Cr, Mo, Ni, V",
+      "Mg & Si",
+      "Sn & Co"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 55,
+    "question": "Advantage of nitriding over carburizing",
+    "options": [
+      "Higher distortion",
+      "No quenching required",
+      "Lower hardness",
+      "White layer is unwanted only"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 56,
+    "question": "In case hardened parts, failure generally initiates from",
+    "options": [
+      "Surface only",
+      "Core only",
+      "Transition region",
+      "Outer coating"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 57,
+    "question": "Ideal process for gear teeth wear resistance + tough core",
+    "options": [
+      "Normalizing",
+      "Carburizing + hardening",
+      "Cold working",
+      "Shot blasting"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 58,
+    "question": "Ideal process for crankshaft pin",
+    "options": [
+      "Annealing",
+      "Induction hardening",
+      "Brine quenching",
+      "Case carburizing"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 59,
+    "question": "Induction hardening cracks increase with",
+    "options": [
+      "Higher carbon content",
+      "Lower carbon content",
+      "Lower hardness",
+      "Higher machining allowance"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 60,
+    "question": "For only a particular region of part to be hardened, preferred method",
+    "options": [
+      "Nitriding",
+      "Induction hardening",
+      "Full annealing",
+      "Normalizing"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 61,
+    "question": "Austenite is stable at",
+    "options": [
+      "Room temperature",
+      "Below 200°C",
+      "High temperature region",
+      "Freezing temperature"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 62,
+    "question": "Martensite is formed by",
+    "options": [
+      "Slow cooling",
+      "Air cooling",
+      "Rapid quenching",
+      "Furnace cooling"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 63,
+    "question": "Microstructure formed by slow furnace cooling is mostly",
+    "options": [
+      "Martensite",
+      "Pearlite + ferrite",
+      "Austenite",
+      "Bainite"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 64,
+    "question": "Bainite forms at",
+    "options": [
+      "Higher temperature than pearlite",
+      "Lower temperature than martensite",
+      "Temperature between pearlite and martensite",
+      "Melting temperature"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 65,
+    "question": "Martensite is",
+    "options": [
+      "Very soft",
+      "Very hard and brittle",
+      "Very ductile",
+      "Corrosion-proof layer"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 66,
+    "question": "Critical cooling curve on a TTT diagram is one that",
+    "options": [
+      "Avoids martensite formation",
+      "Just touches the nose of TTT curve",
+      "Goes below Ms line directly",
+      "Avoids austenite formation"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 67,
+    "question": "On a TTT diagram, transformation begins when the cooling path",
+    "options": [
+      "Touches the start curve",
+      "Touches the finish curve",
+      "Touches Ms",
+      "Touches Mf"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 68,
+    "question": "The transformation to martensite starts at",
+    "options": [
+      "A1 temperature",
+      "Ms temperature",
+      "A3 temperature",
+      "Solidus temperature"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 69,
+    "question": "Ms is",
+    "options": [
+      "Minimum softening temperature",
+      "Martensite start temperature",
+      "Metal solidification temperature",
+      "Matrix shrinking temperature"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 70,
+    "question": "In Iron–Carbon diagram, eutectoid reaction occurs at",
+    "options": [
+      "0.8% C and 727°C",
+      "4.3% C and 1147°C",
+      "2.11% C and 950°C",
+      "6% C and 700°C"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 71,
+    "question": "Pearlite forms from austenite at",
+    "options": [
+      "High cooling rate",
+      "Slow cooling rate",
+      "No cooling",
+      "Sub-zero treatment"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 72,
+    "question": "The structure 100% martensite means",
+    "options": [
+      "Maximum strength but low toughness",
+      "High ductility",
+      "No brittleness",
+      "Poor hardenability automatically"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 73,
+    "question": "A grain-refined structure results in",
+    "options": [
+      "Lower strength",
+      "Higher strength and toughness",
+      "Colour change",
+      "Poor machinability always"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 74,
+    "question": "Bainite compared to pearlite has",
+    "options": [
+      "Lower toughness",
+      "Higher toughness",
+      "Same hardness",
+      "No carbon present"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 75,
+    "question": "The A1 temperature line represents",
+    "options": [
+      "Eutectoid temperature",
+      "Liquidus",
+      "Solidus",
+      "Melting point"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 76,
+    "question": "Increasing grain size",
+    "options": [
+      "Increases toughness",
+      "Decreases brittleness",
+      "Decreases tensile strength",
+      "Improves fatigue life"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 77,
+    "question": "Ideal quenchant for minimizing cracking while still achieving full hardness",
+    "options": [
+      "Brine",
+      "Water",
+      "Polymer / oil",
+      "Air"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 78,
+    "question": "A fully tempered martensite structure gives",
+    "options": [
+      "Low strength & high brittleness",
+      "Balanced hardness + toughness",
+      "No microstructure change",
+      "No wear resistance"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 79,
+    "question": "During heat treatment, phase transformation starts during",
+    "options": [
+      "Heating only",
+      "Cooling only",
+      "Both heating and cooling",
+      "No transformation occurs"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 80,
+    "question": "Carbide particles in tempered martensite improve",
+    "options": [
+      "Strength and wear resistance",
+      "Ability to melt easily",
+      "Electrical resistance",
+      "Magnetic resistance"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 81,
+    "question": "The eutectoid composition of steel is",
+    "options": [
+      "0.2%",
+      "0.45%",
+      "0.8%",
+      "2.11%"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 82,
+    "question": "Retained austenite is",
+    "options": [
+      "Austenite that did not transform during quenching",
+      "Austenite formed during tempering",
+      "Austenite present only in cast iron",
+      "Corrosion layer on gear teeth"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 83,
+    "question": "Austenite transforms to pearlite at",
+    "options": [
+      "High cooling rate",
+      "Moderate cooling rate",
+      "Extremely rapid cooling",
+      "Very high temperature only"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 84,
+    "question": "Increasing alloying elements such as Cr & Mo",
+    "options": [
+      "Decrease hardenability",
+      "Increase hardenability",
+      "Remove hardenability",
+      "Cause corrosion"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 85,
+    "question": "Temper embrittlement is caused by",
+    "options": [
+      "Incorrect tempering temperature selection",
+      "High carbon potential",
+      "Low case depth",
+      "Improper machining"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 86,
+    "question": "Pearlite is a combination of",
+    "options": [
+      "Ferrite + Bainite",
+      "Ferrite + Cementite",
+      "Austenite + Martensite",
+      "Cementite + Graphite"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 87,
+    "question": "Transformation to martensite is",
+    "options": [
+      "Diffusion-controlled",
+      "Non-diffusion (shear) transformation",
+      "Liquid-state transformation",
+      "No transformation"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 88,
+    "question": "The TTT “nose” represents",
+    "options": [
+      "Fastest transformation point",
+      "Highest hardness region",
+      "Corrosion-resistant zone",
+      "Lowest toughness region"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 89,
+    "question": "Bainite microstructure gives",
+    "options": [
+      "Higher brittleness than martensite",
+      "Higher strength + toughness balance",
+      "Zero hardness always",
+      "Softest steel"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 90,
+    "question": "A fully annealed steel shows",
+    "options": [
+      "Coarse pearlite",
+      "100% martensite",
+      "100% bainite",
+      "Very fine martensite"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 91,
+    "question": "Overheating during heat treatment results in",
+    "options": [
+      "Finer grains",
+      "Coarse grains and reduced toughness",
+      "Higher ductility",
+      "Lower distortion"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 92,
+    "question": "Burning is caused by",
+    "options": [
+      "Low quenching rate",
+      "Heating near melting temperature for long duration",
+      "Excessive machining",
+      "Welding only"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 93,
+    "question": "Decarburization is removal of carbon from",
+    "options": [
+      "Entire cross-section",
+      "Only the surface layer",
+      "Only the core",
+      "Steel grain boundaries"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 94,
+    "question": "Quench cracks occur due to",
+    "options": [
+      "Slow cooling",
+      "High cooling rate + high carbon",
+      "No heat treatment",
+      "Removing machining allowance"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 95,
+    "question": "Distortion / warpage results from",
+    "options": [
+      "Uniform quenching",
+      "Uneven heating / uneven quenching",
+      "Slow annealing",
+      "Use of nitriding steels"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 96,
+    "question": "A steel with carbon below 0.37% is not suitable for",
+    "options": [
+      "Induction hardening",
+      "Welding",
+      "Annealing",
+      "Stress relieving"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 97,
+    "question": "Steel with high carbon & sharp corners is more prone to",
+    "options": [
+      "Softening",
+      "Cracking",
+      "Decarburization only",
+      "No change"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 98,
+    "question": "To reduce distortion during quenching",
+    "options": [
+      "Use brine",
+      "Use severe water spray",
+      "Use polymer / oil quench",
+      "Increase quench speed"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 99,
+    "question": "ASTM grain size 6–8 refers to",
+    "options": [
+      "Very coarse grains",
+      "Fine to medium fine grains",
+      "No grains present",
+      "Cast-iron structure"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 100,
+    "question": "Grain refinement in steels leads to",
+    "options": [
+      "Increase in brittleness",
+      "Decrease in fatigue life",
+      "Increase in toughness and strength",
+      "Zero hardness"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 101,
+    "question": "A bolt requires core hardness 32–39 HRC → best process",
+    "options": [
+      "Nitriding",
+      "Normalizing only",
+      "Through hardening (Hardening + tempering)",
+      "Tempering only"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 102,
+    "question": "A gear requires very high surface hardness + wear resistance + tough core",
+    "options": [
+      "Normalizing",
+      "Carburizing + Hardening",
+      "Stress relieving",
+      "Annealing"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 103,
+    "question": "A rear axle requires hard teeth on surface + soft core",
+    "options": [
+      "Nitriding",
+      "Annealing",
+      "Case carburizing + hardening",
+      "Normalizing"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 104,
+    "question": "Shock-loaded component requiring low distortion & high wear resistance → preferred",
+    "options": [
+      "Case carburizing",
+      "Nitriding",
+      "Carbonitriding",
+      "Shot peening"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 105,
+    "question": "For large components where deep hardness is needed → best property",
+    "options": [
+      "High hardness",
+      "High hardenability",
+      "High machinability",
+      "High electrical resistance"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 106,
+    "question": "For cheap surface hardening of low-carbon steel → preferred",
+    "options": [
+      "Annealing",
+      "Carbonitriding",
+      "Nitriding",
+      "Laser hardening"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 107,
+    "question": "For spot hardening of a single region (e.g., cam lobe)",
+    "options": [
+      "Full carburizing",
+      "Induction hardening",
+      "Annealing",
+      "Normalizing"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 108,
+    "question": "To obtain 50% martensite at centre of a bar, we refer to",
+    "options": [
+      "Jominy test",
+      "Grossmann’s critical diameter method",
+      "Izod impact test",
+      "Rockwell test"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 109,
+    "question": "Hardenability differs from hardness because it measures",
+    "options": [
+      "Hardness of the surface only",
+      "Hardness value during machining",
+      "Depth up to which hardness is achieved",
+      "Machinability"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 110,
+    "question": "The heat treatment process that produces lowest distortion",
+    "options": [
+      "Carburizing",
+      "Nitriding",
+      "Induction hardening",
+      "Brine quenching"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 111,
+    "question": "Low hardness after quenching may be due to",
+    "options": [
+      "Low carbon",
+      "Under-austenitizing",
+      "Too slow quench cooling",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 112,
+    "question": "Tooth pitting failure in gears can be minimized by",
+    "options": [
+      "Increasing case depth",
+      "Using air cooling",
+      "Full annealing",
+      "Removing core strength"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 113,
+    "question": "After carburizing, tempering is done to",
+    "options": [
+      "Remove case",
+      "Soften core",
+      "Reduce brittleness and stabilize case",
+      "Convert martensite to ferrite fully"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 114,
+    "question": "After induction hardening, tempering is done to",
+    "options": [
+      "Reduce brittleness of surface layer",
+      "Remove compound zone",
+      "Remove case depth",
+      "Increase annealing"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 115,
+    "question": "Carbon content increases hardenability until approx.",
+    "options": [
+      "0.2%",
+      "0.4%",
+      "0.8%",
+      "2.1%"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 116,
+    "question": "The best quenchant for minimum cracks + controlled cooling",
+    "options": [
+      "Water",
+      "Brine",
+      "Oil / Polymer",
+      "Air"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 117,
+    "question": "Heat-treatment defect NOT caused by quenching",
+    "options": [
+      "Cracking",
+      "Warpage",
+      "Decarburization",
+      "Distortion"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 118,
+    "question": "The very fast transformation time is indicated on TTT curve at",
+    "options": [
+      "Far right",
+      "Centre",
+      "“Nose”",
+      "End of curve"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 119,
+    "question": "The best process when both surface and core must be hardened",
+    "options": [
+      "Through hardening",
+      "Annealing",
+      "Stress relieving",
+      "Normalizing"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 120,
+    "question": "The best method to harden only outer 1–2 mm without affecting core",
+    "options": [
+      "Nitriding",
+      "Induction hardening",
+      "Annealing",
+      "Air cooling"
+    ],
+    "answerIndex": 1
+  }
+]
